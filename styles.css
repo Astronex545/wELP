@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 25px;
+  line-height: 1.6;
+}
+
+.title {
+  color: #5C6AC4;
+}
+
+.text-picture {
+  display: flex;
+  background-color: black;
+  align-items: center;
+}
+
+.section-one {
+  padding-right: 50px;
+}
+
+.thumbnail-one {
+  max-width: 100px;
+  max-height: auto;
+  border: 10px solid white;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 25px;
+    line-height: 1.6;
+    background-image: url('https://uploads.onecompiler.io/43njwpsga/43nnutbrq/jake-weirick-Q_RBVFFXR_g-unsplash.jpg'); /* Background image */
+    background-repeat: repeat; /* Repeat the image */
+    background-size: contain; /* Maintain original size */
+    background-position: top left; /* Position the image */
+}
